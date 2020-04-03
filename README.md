@@ -5,5 +5,5 @@
 - Create and commit baseline files
 - Manage subscriptions and local assets
   - Load Screen Mod
--- Selenium
--- PHP
+  - Selenium
+  - PHP
